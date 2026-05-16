@@ -5,6 +5,8 @@ title: Global Literacy Rates Analysis
 
 # Global Literacy Rates Analysis
 
+![World Map](images/world_map.png)
+
 ## Project Overview
 
 This project analyzes global literacy rates using data from Our World in Data. The goal was to explore how literacy rates differ across countries, regions, and over time.
@@ -19,6 +21,14 @@ Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term l
 2. Which countries have the highest and lowest literacy rates?
 3. How do literacy rates differ across regions?
 4. Which countries experienced the largest literacy improvements over time?
+
+---
+
+## Disclaimer
+
+Since there isn't a single year with complete global coverage, different countries report literacy data in different years. Earlier decades contain fewer observations, while more recent years include much broader coverage.
+
+To avoid excluding a large number of countries, this analysis uses the most recent available literacy rate for each country. This allows for a more complete global comparison, even though reporting years vary slightly across countries.
 
 ---
 
@@ -38,7 +48,9 @@ Overall, the regression supports what the graph shows. Global literacy has impro
 
 ![Top 10 Highest Literacy Rate](images/10_highest.png)
 
-sdfjs
+These countries have extremely high literacy rates, many at or close to 100%. This reflects strong education systems and broad access to basic schooling.
+
+It’s important to note that these values come from each country’s most recent available data, so the exact reporting years may differ slightly between countries.
 
 ---
 
@@ -46,7 +58,9 @@ sdfjs
 
 ![Top 10 Lowest Literacy Rate](images/10_lowest.png)
 
-sdfjslkd
+These countries show much lower literacy rates, ranging from roughly 27% to just above 40%. This points to ongoing challenges such as limited access to education, economic barriers, and long-term development constraints.
+
+Together, these results highlight major global inequalities in access to education and literacy outcomes.
 
 ---
 
@@ -54,7 +68,13 @@ sdfjslkd
 
 ![Literacy by Region](images/literacy_region.png)
 
-ksdfhd
+The chart above shows clear differences in average literacy rates across regions.
+
+Europe has the highest average literacy rate at about 98%, while the Americas also show relatively high levels at around 92%.
+
+Asia and Africa have lower averages, at roughly 72% and 74% respectively. While these two regions are fairly close to each other, both remain significantly below Europe and the Americas.
+
+Overall, the pattern highlights global inequality in education outcomes, likely shaped by differences in economic development, access to schooling, and long-term investment in education systems.
 
 ---
 
@@ -62,7 +82,15 @@ ksdfhd
 
 ![Countries Literacy Improvements](images/literacy_improvements.png)
 
-asdkfd
+This chart shows the countries with the largest improvements in literacy rates over time.
+
+Countries such as Bangladesh, Iran, Nepal, and Morocco showed some of the most improvements with roughly 45–50%. Several other countries, including India, Rwanda, and Burundi, also showed substantial progress.
+
+Overall, this suggests major improvements in literacy across many developing countries, likely driven by expanded access to education and long-term development efforts.
+
+However, the size of improvement varies between countries, showing that progress in education has not been uniform across the world.
+
+It’s also important to note that these changes are calculated using each country’s earliest and latest available data, so the time spans differ between countries.
 
 ---
 
