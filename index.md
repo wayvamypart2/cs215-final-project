@@ -44,6 +44,16 @@ Overall, the regression supports what the graph shows. Global literacy has impro
 
 ---
 
+## New Technique Used
+
+The new technique I researched was used in the Global Literacy Rates Over Time graph above. I researched and applied linear regression using the SciPy library.
+
+I used regression analysis to measure the overall trend in global literacy rates over time and calculate the average yearly increase in literacy rates.
+
+This helped quantify the trend rather than only visually interpreting it from the graph.
+
+---
+
 ## Top 10 Countries With the Highest Literacy Rate
 
 ![Top 10 Highest Literacy Rate](images/10_highest.png)
@@ -103,27 +113,17 @@ It’s also important to note that these changes are calculated using each count
 
 ---
 
-## New Technique Used
-
-For this project, I researched and applied linear regression using the SciPy library.
-
-I used regression analysis to measure the overall trend in global literacy rates over time and calculate the average yearly increase in literacy rates.
-
-This helped quantify the trend rather than only visually interpreting it from the graph.
-
----
-
 ## Data Source
 
-- Our World in Data Literacy Dataset
-- https://ourworldindata.org/literacy
+- Our World in Data: https://ourworldindata.org/literacy
+- Link to CSV data file: https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link
 
 ---
 
 ## Project Files
 
-- [View Colab Notebook](./Final%20Project/YOUR_NOTEBOOK_NAME.ipynb)
-- [View Dataset](./Final%20Project/global_literacy_rates.csv)
+- [View Colab Notebook](https://colab.research.google.com/drive/1jiyzdq6tnaRjSPmIayZ8m-wiEjE1z_mE?usp=sharing)
+- [View GitHub Repository]()
 
 ---
 
