@@ -22,6 +22,18 @@ Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term l
 
 ---
 
+## Global Literacy Rates (1970-2023)
+
+![Global Literacy Trend](images/literacy_trend.png)
+
+The positive slope (0.48) shows that global literacy rates have generally increase over time. On average, literacy has risen by about 0.48 percentage points per year.
+
+The R² value of 0.52 suggests that time explains about half of the variation in literacy rates. This means that there is a clear upward trend overall, but it's not perfectly consistent. Other factors that may influence these results are differences between countries, gaps in data reporting, and regional inequality.
+
+Overall, the regression supports what the graph shows. Global literacy has improved over time, but progress is uneven.
+
+---
+
 ## Key Findings
 
 - Global literacy rates generally increased from 1970–2023.
@@ -30,8 +42,6 @@ Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term l
 - Bangladesh, Iran, and Nepal showed some of the largest literacy improvements over time.
 
 ---
-
-![Global literacy trend](images/literacy_trend.png) 
 
 ## New Technique Used
 
