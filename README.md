@@ -1,2 +1,62 @@
-# cs215-final-project
-CS215 Final Project: Global Literacy Rates
+---
+layout: default
+title: Global Literacy Rates Analysis
+---
+
+# Global Literacy Rates Analysis
+
+## Project Overview
+
+This project analyzes global literacy rates using data from Our World in Data. The goal was to explore how literacy rates differ across countries, regions, and over time.
+
+Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term literacy trends and created visualizations to better understand global education patterns.
+
+---
+
+## Research Questions
+
+1. How have global literacy rates changed over time?
+2. Which countries have the highest and lowest literacy rates?
+3. How do literacy rates differ across regions?
+4. Which countries experienced the largest literacy improvements over time?
+
+---
+
+## Key Findings
+
+- Global literacy rates generally increased from 1970–2023.
+- European countries had the highest average literacy rates.
+- Several countries in Africa and Asia still face lower literacy levels.
+- Bangladesh, Iran, and Nepal showed some of the largest literacy improvements over time.
+
+---
+
+## New Technique Used
+
+For this project, I researched and applied linear regression using the SciPy library.
+
+I used regression analysis to measure the overall trend in global literacy rates over time and calculate the average yearly increase in literacy rates.
+
+This helped quantify the trend rather than only visually interpreting it from the graph.
+
+---
+
+## Data Source
+
+- Our World in Data Literacy Dataset
+- https://ourworldindata.org/literacy
+
+---
+
+## Project Files
+
+- [View Colab Notebook](./Final%20Project/YOUR_NOTEBOOK_NAME.ipynb)
+- [View Dataset](./Final%20Project/global_literacy_rates.csv)
+
+---
+
+## Reflection
+
+One challenge in this project was dealing with missing and inconsistent yearly data across countries. Different countries reported literacy data in different years, which made direct comparisons more difficult.
+
+If I had more time, I would expand this project by incorporating additional datasets such as GDP, education spending, or school enrollment to better understand what factors most influence literacy rates.
