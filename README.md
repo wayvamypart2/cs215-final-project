@@ -31,7 +31,7 @@ Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term l
 
 ---
 
-![alt text](image.png)
+![Global literacy trend](images/literacy_trend.png) 
 
 ## New Technique Used
 
