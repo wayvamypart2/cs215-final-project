@@ -1,5 +1,10 @@
 # Global Literacy Rates Analysis
 
+Name: Amelia Pucek
+Date: May 16, 2026
+Course: CS-215
+Final Project: Global Literacy Rates
+
 ## Purpose
 
 This project explores global literacy rates using real-world data from Our World in Data. The analysis focuses on trends over time, regional differences, and country-level improvements in literacy.
