@@ -146,4 +146,4 @@ Overall, these findings helped show us issues when looking at data, the struggle
 - Google Gemini (built into Google Colab): Was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
 
 ### Intro Image
-- [Intro World Map](https://www.guideoftheworld.com/high-resolution-world-map.html)
+- [Intro World Map (Our World in Data)](https://ourworldindata.org/literacy)
