@@ -17,8 +17,8 @@ This project explores global literacy rates using real-world data from Our World
 - images
     - This folder contains all the graphs and charts I used in my website. They all came from my Google Colab.
 - _config.yml
-    - This file was to help me apply a Jekyll theme for my webpage.
+    - This is a configuration file to help me apply a Jekyll theme for my webpage.
 - index.md
-    - The index file is what I'm using to create my webpage. I type everything I want in my webpage on this file and give the proper commands to add images and sections.
+    - The index file is what I'm using to create my webpage. It is the main project webpage file. This contains the narrative, visualizations, and interpretation of results.
 - README.md
     - The README file is to explain what my project is about and what each folder/file is for.

@@ -113,22 +113,30 @@ It’s also important to note that these changes are calculated using each count
 
 ---
 
-## Data Source
+## Reflection
 
-- Our World in Data: https://ourworldindata.org/literacy
-- Link to CSV data file: https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link
+One challenge that I faced in this project was dealing with missing and inconsistent yearly data across countries. Different countries reported literacy data in different years, which made direct comparisons more difficult.
+
+If I had more time, I would expand this project by incorporating additional datasets such as GDP, education spending, or school enrollment to better understand what factors most influence literacy rates.
+
+Overall, these findings helped show us issues when looking at data, the struggles regions may face regarding literacy, how missing information can have an impact on data, and what countries have shown improvement in literacy over the years.
 
 ---
 
 ## Project Files
 
 - [View Colab Notebook](https://colab.research.google.com/drive/1jiyzdq6tnaRjSPmIayZ8m-wiEjE1z_mE?usp=sharing)
-- [View GitHub Repository]()
+- [View GitHub Repository](https://github.com/wayvamypart2/cs215-final-project.git)
 
 ---
 
-## Reflection
+## Resources
 
-One challenge in this project was dealing with missing and inconsistent yearly data across countries. Different countries reported literacy data in different years, which made direct comparisons more difficult.
+### Data Sources
+- [Our World in Data](https://ourworldindata.org/literacy)
+- [Link to CSV Data File](https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link)
 
-If I had more time, I would expand this project by incorporating additional datasets such as GDP, education spending, or school enrollment to better understand what factors most influence literacy rates.
+### Research Sources
+- [SciPy linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html): A SciPy document was used as a resource for my research to learn how to do my new technique, which was the line regression. I also incorporated the scipy library into my analysis to perform the regression calculations.
+- ChatGPT (OpenAI) was used to help troubleshoot coding errors and refine analysis steps.
+- Google Gemini (built into Google Colab) was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
