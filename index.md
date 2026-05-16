@@ -129,7 +129,7 @@ Overall, these findings helped show us issues when looking at data, the struggle
 
 ## Project Files
 
-Take a look at how I did my research created this webpage!
+Take a look at how I did my research and created this webpage!
 
 - [Google Colab Notebook](https://colab.research.google.com/drive/1jiyzdq6tnaRjSPmIayZ8m-wiEjE1z_mE?usp=sharing): This link will take you to my code, process, and research regarding global literacy rates.
 - [GitHub Repository](https://github.com/wayvamypart2/cs215-final-project.git): This will take you to my GitHub repository where you can see how I created this webpage.
