@@ -5,6 +5,9 @@ title: Global Literacy Rates Analysis
 
 # Global Literacy Rates Analysis
 
+**Created By:** {{site.author}}
+**Date:** {{site.date}}
+
 ![World Map](images/world_map.png)
 
 ## Project Overview
