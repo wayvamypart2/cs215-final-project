@@ -140,7 +140,7 @@ Take a look at how I did my research created this webpage!
 
 ### Data Sources
 - [Our World in Data](https://ourworldindata.org/literacy): The website I used to learn about global literacy rates.
-- [Link to CSV Data File](https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link): Data I got from the Literacy page of Our World in Data.
+- [Link to CSV Data File](https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=sharing): Data I got from the Literacy page of Our World in Data.
 
 ### Research Sources
 - [SciPy linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html): A SciPy document was used as a resource for my research to learn how to do my new technique, which was the line regression. I also incorporated the scipy library into my analysis to perform the regression calculations.
