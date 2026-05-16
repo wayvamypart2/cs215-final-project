@@ -129,21 +129,23 @@ Overall, these findings helped show us issues when looking at data, the struggle
 
 ## Project Files
 
-- [View Colab Notebook](https://colab.research.google.com/drive/1jiyzdq6tnaRjSPmIayZ8m-wiEjE1z_mE?usp=sharing)
-- [View GitHub Repository](https://github.com/wayvamypart2/cs215-final-project.git)
+Take a look at how I did my research created this webpage!
+
+- [Google Colab Notebook](https://colab.research.google.com/drive/1jiyzdq6tnaRjSPmIayZ8m-wiEjE1z_mE?usp=sharing): This link will take you to my code, process, and research regarding global literacy rates.
+- [GitHub Repository](https://github.com/wayvamypart2/cs215-final-project.git): This will take you to my GitHub repository where you can see how I created this webpage.
 
 ---
 
 ## Resources
 
 ### Data Sources
-- [Our World in Data](https://ourworldindata.org/literacy)
-- [Link to CSV Data File](https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link)
+- [Our World in Data](https://ourworldindata.org/literacy): The website I used to learn about global literacy rates.
+- [Link to CSV Data File](https://drive.google.com/file/d/1eJLWJfvaSFvdtjYre9ZhpApTzM9pjhRN/view?usp=drive_link): Data I got from the Literacy page of Our World in Data.
 
 ### Research Sources
 - [SciPy linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html): A SciPy document was used as a resource for my research to learn how to do my new technique, which was the line regression. I also incorporated the scipy library into my analysis to perform the regression calculations.
 - ChatGPT (OpenAI): Was used to help troubleshoot coding errors and refine analysis steps.
 - Google Gemini (built into Google Colab): Was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
 
-### Intro Image
-- [Intro World Map (Our World in Data)](https://ourworldindata.org/literacy)
+### Intro Map
+- [Intro World Map (Our World in Data)](https://ourworldindata.org/literacy): This image was from the Literacy page of Our World in Data to provide a relevant intro image for this webpage.
