@@ -138,5 +138,5 @@ Overall, these findings helped show us issues when looking at data, the struggle
 
 ### Research Sources
 - [SciPy linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html): A SciPy document was used as a resource for my research to learn how to do my new technique, which was the line regression. I also incorporated the scipy library into my analysis to perform the regression calculations.
-- ChatGPT (OpenAI) was used to help troubleshoot coding errors and refine analysis steps.
-- Google Gemini (built into Google Colab) was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
+- ChatGPT (OpenAI): Was used to help troubleshoot coding errors and refine analysis steps.
+- Google Gemini (built into Google Colab): Was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
