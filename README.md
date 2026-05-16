@@ -31,6 +31,8 @@ Using Python, pandas, matplotlib, seaborn, and SciPy, I investigated long-term l
 
 ---
 
+![alt text](image.png)
+
 ## New Technique Used
 
 For this project, I researched and applied linear regression using the SciPy library.
