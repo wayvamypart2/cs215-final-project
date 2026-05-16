@@ -6,6 +6,7 @@ title: Global Literacy Rates Analysis
 # Global Literacy Rates Analysis
 
 **Created By:** {{site.author}}
+
 **Date:** {{site.date}}
 
 ![World Map](images/world_map.png)
@@ -47,13 +48,13 @@ Overall, the regression supports what the graph shows. Global literacy has impro
 
 ---
 
-## New Technique Used
+## New Technique: Regression Analysis
 
 The new technique I researched was used in the Global Literacy Rates Over Time graph above. I researched and applied linear regression using the SciPy library.
 
 I used regression analysis to measure the overall trend in global literacy rates over time and calculate the average yearly increase in literacy rates.
 
-This helped quantify the trend rather than only visually interpreting it from the graph.
+This helps move the analysis from visual interpretation to quantitative measurement of the trend.
 
 ---
 
@@ -143,3 +144,6 @@ Overall, these findings helped show us issues when looking at data, the struggle
 - [SciPy linregress](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html): A SciPy document was used as a resource for my research to learn how to do my new technique, which was the line regression. I also incorporated the scipy library into my analysis to perform the regression calculations.
 - ChatGPT (OpenAI): Was used to help troubleshoot coding errors and refine analysis steps.
 - Google Gemini (built into Google Colab): Was used to assist with debugging errors when I couldn't figure out why a code wasn't working.
+
+### Intro Image
+- [Intro World Map](https://www.guideoftheworld.com/high-resolution-world-map.html)
