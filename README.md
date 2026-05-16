@@ -1,8 +1,11 @@
 # Global Literacy Rates Analysis
 
 Name: Amelia Pucek
+
 Date: May 16, 2026
+
 Course: CS-215
+
 Final Project: Global Literacy Rates
 
 ## Purpose
